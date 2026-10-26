@@ -53,4 +53,5 @@ Both NAND and NOR gates are considered **universal gates** because any of the ba
 * **NOT:** Combine inputs together → `(A + A)' = A'`
 * **OR:** Pass inputs through a standard NOR gate first, then invert that output using a NOT-configured NOR gate → `((A + B)' + (A + B)')' = A + B`
 * **AND:** Pass inputs through two separate NOT-configured NOR gates first, then pass both inverted streams through a third NOR gate → `(A' + B')' = A · B`
+
 Reference- Morris Mano
