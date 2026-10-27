@@ -1,4 +1,5 @@
-[Simplification_of_Boolean_Expressions (1).docx](https://github.com/user-attachments/files/33834552/Simplification_of_Boolean_Expressions.1.docx)
+[Simplification_of_Boolean_Expressions.docx](https://github.com/user-attachments/files/34026435/Simplification_of_Boolean_Expressions.docx)
+
 # SUMMARY: BOOLEAN ALGEBRA & LOGIC GATES
 
 ### 1. Basic Boolean Identities
@@ -55,3 +56,5 @@ Both NAND and NOR gates are considered **universal gates** because any of the ba
 * **AND:** Pass inputs through two separate NOT-configured NOR gates first, then pass both inverted streams through a third NOR gate → `(A' + B')' = A · B`
 
 Reference- Morris Mano
+
+(I am extremely sorry for the bad images of the gates)
